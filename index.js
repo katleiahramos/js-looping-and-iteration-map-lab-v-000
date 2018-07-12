@@ -5,5 +5,5 @@ function lowerCaseDrivers(drivers) {
 }
 
 function nameToAttriburtes(drivers) {
-  return drivers.map( )
+  return drivers.map( function (driver) {return Object.assign({}, {firstName:  , lastNmae: })})
 }
