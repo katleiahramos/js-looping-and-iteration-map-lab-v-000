@@ -10,6 +10,6 @@ function nameToAttributes(drivers) {
       firstName: driver.split(" ")[0]  , lastName: driver.split(" ")[1] })})
 }
 
-function attributesToPhrase() {
-  
+function attributesToPhrase(drivers) {
+
 }
